@@ -1,8 +1,14 @@
 # .gitignore
 
+# Hugo generated files
 /public/
 /resources/
+
+# macOS files
 .DS_Store
+._*
+
+# RStudio files
 *.Rproj.user
 .Rhistory
 .RData

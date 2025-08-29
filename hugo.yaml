@@ -2,6 +2,7 @@ baseurl: "https://anya-rb-chen.github.io/"  # please update this to your actual 
 languageCode: "en-us"
 title: "CHEN Rubing's AcademicCV"
 theme: "hugo-xmin"
+publishDir: "public"
 googleAnalytics: ""
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
