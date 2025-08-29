@@ -1,0 +1,57 @@
+# .github/workflows/hugo.yml
+
+# Name of the workflow
+name: Deploy Hugo site to Pages
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push events but only for the "main" branch
+  push:
+    branches:
+      - main
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "deploy"
+  deploy:
+    runs-on: ubuntu-latest # Use the latest Ubuntu runner
+
+    # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # 1. Checkout your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetches submodules (important if your theme is a submodule)
+          fetch-depth: 0    # Fetches all history for .GitInfo and .Lastmod
+
+      # 2. Setup Hugo
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest' # Use the latest version of Hugo
+          # extended: true # Uncomment this if your theme requires the Hugo extended version
+
+      # 3. Build the website
+      - name: Build
+        run: hugo --minify # The "hugo" command builds the site. --minify makes files smaller.
+
+      # 4. Upload the built site artifacts
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload the "public" directory
+          path: ./public
+
+      # 5. Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
