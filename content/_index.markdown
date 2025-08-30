@@ -2,15 +2,79 @@
 title: Home
 ---
 
-[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
+<!-- my image crashed, please fix -->
+<img src="/images/selfie_square.jpg" alt="A photo of Rubing Chen" style="max-width:20%; min-width:40px; float:right; ; border-radius:50%; margin: 0 0 1em 1em;"/>
 
 # Rubing Chen (陈儒冰)
 
-## *About Me*
+
+I am a Ph.D. student in the [PolySmart Group](https://www.polyu.edu.hk/comp/polysmart/) at the [Department of Computing](https://www.polyu.edu.hk/comp/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research is co-supervised by Prof. [Qing Li](https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-qing/) and Prof. [Xiaoyong Wei](https://www.polyu.edu.hk/comp/people/academic-staff/dr-wei-xiaoyong/). I obtained my Bachelor's degree with First Class Honours from PolyU in 2025.
+
+My primary research interests are in **domain-specific large language models (LLMs)** and **natural language processing (NLP)**. I have also contributed to other AI-related research projects, including applications in AI for Science.
 
 
+**Email**: `rubing.chen@connect.polyu.hk`
+<!-- Icon Links Block -->
+<div style="margin-top: 1em; display: flex; flex-wrap: wrap; gap: 10px;">
+    <!-- GitHub -->
+    <a href="https://github.com/Anya-RB-Chen" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; padding: 5px 10px; border: 1px solid #ddd; border-radius: 5px; text-decoration: none; color: inherit; background-color: #f9f9f9;">
+        <img src="https://cdn.simpleicons.org/github/000" alt="GitHub Logo" style="height: 20px; margin-right: 8px;">
+        <span style="font-size: 0.9em; font-weight: 500;">GitHub</span>
+    </a>
+    <!-- Google Scholar -->
+    <a href="https://scholar.google.com/citations?user=lEjqi_MAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; padding: 5px 10px; border: 1px solid #ddd; border-radius: 5px; text-decoration: none; color: inherit; background-color: #f9f9f9;">
+        <img src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="Google Scholar Logo" style="height: 20px; margin-right: 8px;">
+        <span style="font-size: 0.9em; font-weight: 500;">Google Scholar</span>
+    </a>
+    <!-- ORCID -->
+    <a href="https://orcid.org/my-orcid?orcid=0009-0006-6975-7134" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; padding: 5px 10px; border: 1px solid #ddd; border-radius: 5px; text-decoration: none; color: inherit; background-color: #f9f9f9;">
+        <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID Logo" style="height: 20px; margin-right: 8px;">
+        <span style="font-size: 0.9em; font-weight: 500;">ORCID</span>
+    </a>
+</div>
 
-Hello my friend, I am a PhD Student at [PolySmart Group](https://polysmartgroup.github.io/) at the [Department of Computing](https://www.polyu.edu.hk/comp/?sc_lang=en) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), in Hung Hom, Kowloon, Hong Kong SAR. I obtained my first hornor bachelor degree from PolyU in 2025, and then continue purchasing my PhD study co-supervised by Prof. [LI Qing](https://www4.comp.polyu.edu.hk/~csqli/) and Prof. [Xiaoyong Wei](https://www4.comp.polyu.edu.hk/~x1wei/).
+---
+
+## News
+
+-   **[2025-08]** 🔥 A paper was accepted by EMNLP 2025.
+-   **[2025-07]** Received a PhD offer and will commence my doctoral study in September 2025 at PolyU.
+-   **[2025-05]** 🎓 Graduated from PolyU with a Bachelor of Science in Computing (First Class Honours).
 
 
+---
 
+## Publications
+(`*`: Corresponding author)
+
+#### Preprints
+-   **Multi-level querying using a knowledge pyramid**<br>
+    **Rubing Chen**, Xulu Zhang, Jiaxin Wu, Wenqi Fan, Xiao-Yong Wei, Qing Li`*`<br>
+    *arXiv: 2407.21276* [[arXiv]](https://arxiv.org/abs/2407.21276)
+
+-   **MolGround: A Benchmark for Molecular Grounding**<br>
+    Jiaxin Wu, Ting Zhang, **Rubing Chen**, Wengyu Zhang, Chen Jason Zhang, Xiao-Yong Wei`*`, Li Qing<br>
+    *arXiv: 2503.23668* [[arXiv]](https://arxiv.org/abs/2503.23668)
+
+-   **Probabilistic Optimality for Inference-time Scaling**<br>
+    Youkang Wang, Jian Wang, **Rubing Chen**, Xiao-Yong Wei`*`<br>
+    *arXiv: 2506.22376* [[arXiv]](https://arxiv.org/abs/2506.22376)
+
+#### 2025
+-   **Benchmarking for Domain-Specific LLMs: A Case Study on Academia and Beyond**<br>
+    **Rubing Chen**, Jiaxin Wu, Jian Wang, Xulu Zhang, Wenqi Fan, Chenghua Lin, Xiao-Yong Wei`*`, Qing Li<br>
+    *Findings of the Empirical Methods in Natural Language Processing (EMNLP-Findings), 2025*<br>
+    [arXiv](https://arxiv.org/abs/2508.07353) | [Paper]() | [Github]()
+
+
+---
+
+## Honors and Awards
+
+-   **[2025-06]** Best Project Award Competition 2025, First Runner-up
+-   **[2025-06]** Au Bak Ling Charity Trust Scholarship 2024/25
+-   **[2023-05, 2025-05]** Interdisciplinary Contest In Modeling (ICM), Meritorious Winner
+-   **[2024-12]** The 4th China Mobile 'Wutong Cup' National Finals, Second Prize
+-   **[2022-2024]** Dean's Honours List, Department of Computing, PolyU (3 consecutive years)
+-   **[2022-09]** Undergraduate Research Innovation Scheme Scholarship 2022/23
+-   **[2020-06]** Outstanding Graduate of HSANNU
