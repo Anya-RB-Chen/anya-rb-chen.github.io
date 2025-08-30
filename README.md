@@ -1,28 +1,80 @@
-# HUGO XMIN
+---
+title: Home
+---
 
-## _Keep it simple, but not simpler_
+<!-- my image crashed, please fix -->
+<img src="/images/selfie_square.jpg" alt="A photo of Rubing Chen" style="max-width:20%; min-width:40px; float:right; ; border-radius:50%; margin: 0 0 1em 1em;"/>
 
-**XMin** is a Hugo theme written by [Yihui Xie](https://yihui.org) in about four hours: half an hour was spent on the Hugo templates, and 3.5 hours were spent on styling. The main motivation for writing this theme was to provide a really minimal example to beginners of Hugo templates. This XMin theme contains about 140 lines of code in total, including the code in HTML templates and CSS (also counting empty lines).
+# Rubing Chen (陈儒冰)
 
 
-``` bash
-find . -not -path '*/exampleSite/*' \( -name '*.html' -o -name '*.css' \) | xargs wc -l
-```
+I am a Ph.D. student in the [PolySmart Group](https://www.polyu.edu.hk/comp/polysmart/) at the [Department of Computing](https://www.polyu.edu.hk/comp/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research is co-supervised by Prof. [Qing Li](https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-qing/) and Prof. [Xiaoyong Wei](https://www.polyu.edu.hk/comp/people/academic-staff/dr-wei-xiaoyong/). I obtained my Bachelor's degree with First Class Honours from PolyU in 2025.
 
-```
-      12 ./layouts/single.html
-      20 ./layouts/list.html
-      13 ./layouts/terms.html
-       5 ./layouts/404.html
-       0 ./layouts/_partials/foot_custom.html
-       0 ./layouts/_partials/head_custom.html
-       9 ./layouts/_partials/footer.html
-      20 ./layouts/_partials/header.html
-      51 ./static/css/style.css
-       7 ./static/css/fonts.css
-     137 total
-```
+My primary research interests are in **domain-specific large language models (LLMs)** and **natural language processing (NLP)**. I have also contributed to other AI-related research projects, including applications in AI for Science.
 
-I can certainly further reduce the code, for example, by eliminating the CSS, but I believe a tiny bit of CSS can greatly improve readability. You cannot really find many CSS frameworks that only contain 50 lines of code.
 
-[![Screenshot](https://github.com/yihui/hugo-xmin/raw/master/images/screenshot.png)](https://xmin.yihui.org)
+**Email**: `rubing.chen@connect.polyu.hk`
+<!-- Icon Links Block -->
+<div style="margin-top: 1em; display: flex; flex-wrap: wrap; gap: 10px;">
+    <!-- GitHub -->
+    <a href="https://github.com/Anya-RB-Chen" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; padding: 5px 10px; border: 1px solid #ddd; border-radius: 5px; text-decoration: none; color: inherit; background-color: #f9f9f9;">
+        <img src="https://cdn.simpleicons.org/github/000" alt="GitHub Logo" style="height: 20px; margin-right: 8px;">
+        <span style="font-size: 0.9em; font-weight: 500;">GitHub</span>
+    </a>
+    <!-- Google Scholar -->
+    <a href="https://scholar.google.com/citations?user=lEjqi_MAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; padding: 5px 10px; border: 1px solid #ddd; border-radius: 5px; text-decoration: none; color: inherit; background-color: #f9f9f9;">
+        <img src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="Google Scholar Logo" style="height: 20px; margin-right: 8px;">
+        <span style="font-size: 0.9em; font-weight: 500;">Google Scholar</span>
+    </a>
+    <!-- ORCID -->
+    <a href="https://orcid.org/my-orcid?orcid=0009-0006-6975-7134" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; padding: 5px 10px; border: 1px solid #ddd; border-radius: 5px; text-decoration: none; color: inherit; background-color: #f9f9f9;">
+        <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID Logo" style="height: 20px; margin-right: 8px;">
+        <span style="font-size: 0.9em; font-weight: 500;">ORCID</span>
+    </a>
+</div>
+
+---
+
+## News
+
+-   **[2025-08]** 🔥 A paper was accepted by EMNLP 2025.
+-   **[2025-07]** Received a PhD offer and will commence my doctoral study in September 2025 at PolyU.
+-   **[2025-05]** 🎓 Graduated from PolyU with a Bachelor of Science in Computing (First Class Honours).
+
+
+---
+
+## Publications
+(`*`: Corresponding author)
+
+#### Preprints
+-   **Multi-level querying using a knowledge pyramid**<br>
+    **Rubing Chen**, Xulu Zhang, Jiaxin Wu, Wenqi Fan, Xiao-Yong Wei, Qing Li`*`<br>
+    *arXiv: 2407.21276* [[arXiv]](https://arxiv.org/abs/2407.21276)
+
+-   **MolGround: A Benchmark for Molecular Grounding**<br>
+    Jiaxin Wu, Ting Zhang, **Rubing Chen**, Wengyu Zhang, Chen Jason Zhang, Xiao-Yong Wei`*`, Li Qing<br>
+    *arXiv: 2503.23668* [[arXiv]](https://arxiv.org/abs/2503.23668)
+
+-   **Probabilistic Optimality for Inference-time Scaling**<br>
+    Youkang Wang, Jian Wang, **Rubing Chen**, Xiao-Yong Wei`*`<br>
+    *arXiv: 2506.22376* [[arXiv]](https://arxiv.org/abs/2506.22376)
+
+#### 2025
+-   **Benchmarking for Domain-Specific LLMs: A Case Study on Academia and Beyond**<br>
+    **Rubing Chen**, Jiaxin Wu, Jian Wang, Xulu Zhang, Wenqi Fan, Chenghua Lin, Xiao-Yong Wei`*`, Qing Li<br>
+    *Findings of the Empirical Methods in Natural Language Processing (EMNLP-Findings), 2025*<br>
+    [arXiv](https://arxiv.org/abs/2508.07353) | [Paper]() | [Github]()
+
+
+---
+
+## Honors and Awards
+
+-   **[2025-06]** Best Project Award Competition 2025, First Runner-up
+-   **[2025-06]** Au Bak Ling Charity Trust Scholarship 2024/25
+-   **[2023-05, 2025-05]** Interdisciplinary Contest In Modeling (ICM), Meritorious Winner
+-   **[2024-12]** The 4th China Mobile 'Wutong Cup' National Finals, Second Prize
+-   **[2022-2024]** Dean's Honours List, Department of Computing, PolyU (3 consecutive years)
+-   **[2022-09]** Undergraduate Research Innovation Scheme Scholarship 2022/23
+-   **[2020-06]** Outstanding Graduate of HSANNU
