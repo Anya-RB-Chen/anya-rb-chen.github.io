@@ -1,4 +1,4 @@
-baseurl: "https://anya-rb-chen.github.io/"  # please update this to your actual URL
+baseurl: "https://anya-rb-chen.github.io/cv/"  # please update this to your actual URL
 languageCode: "en-us"
 title: "Rubing Chen"
 theme: "hugo-xmin"
