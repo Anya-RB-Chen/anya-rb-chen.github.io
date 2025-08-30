@@ -1,10 +1,3 @@
----
-title: Home
----
-
-<!-- my image crashed, please fix -->
-<img src="/images/selfie_square.jpg" alt="A photo of Rubing Chen" style="max-width:20%; min-width:40px; float:right; ; border-radius:50%; margin: 0 0 1em 1em;"/>
-
 # Rubing Chen (陈儒冰)
 
 
@@ -33,7 +26,7 @@ My primary research interests are in **domain-specific large language models (LL
     </a>
 </div>
 
----
+
 
 ## News
 
@@ -42,32 +35,31 @@ My primary research interests are in **domain-specific large language models (LL
 -   **[2025-05]** 🎓 Graduated from PolyU with a Bachelor of Science in Computing (First Class Honours).
 
 
----
+
 
 ## Publications
 (`*`: Corresponding author)
 
 #### Preprints
 -   **Multi-level querying using a knowledge pyramid**<br>
-    **Rubing Chen**, Xulu Zhang, Jiaxin Wu, Wenqi Fan, Xiao-Yong Wei, Qing Li`*`<br>
+    **Rubing Chen**, Xulu Zhang, Jiaxin Wu, Wenqi Fan, Xiao-Yong Wei, Qing Li*<br>
     *arXiv: 2407.21276* [[arXiv]](https://arxiv.org/abs/2407.21276)
 
 -   **MolGround: A Benchmark for Molecular Grounding**<br>
-    Jiaxin Wu, Ting Zhang, **Rubing Chen**, Wengyu Zhang, Chen Jason Zhang, Xiao-Yong Wei`*`, Li Qing<br>
+    Jiaxin Wu, Ting Zhang, **Rubing Chen**, Wengyu Zhang, Chen Jason Zhang, Xiao-Yong Wei*, Li Qing<br>
     *arXiv: 2503.23668* [[arXiv]](https://arxiv.org/abs/2503.23668)
 
 -   **Probabilistic Optimality for Inference-time Scaling**<br>
-    Youkang Wang, Jian Wang, **Rubing Chen**, Xiao-Yong Wei`*`<br>
+    Youkang Wang, Jian Wang, **Rubing Chen**, Xiao-Yong Wei*<br>
     *arXiv: 2506.22376* [[arXiv]](https://arxiv.org/abs/2506.22376)
 
 #### 2025
 -   **Benchmarking for Domain-Specific LLMs: A Case Study on Academia and Beyond**<br>
-    **Rubing Chen**, Jiaxin Wu, Jian Wang, Xulu Zhang, Wenqi Fan, Chenghua Lin, Xiao-Yong Wei`*`, Qing Li<br>
+    **Rubing Chen**, Jiaxin Wu, Jian Wang, Xulu Zhang, Wenqi Fan, Chenghua Lin, Xiao-Yong Wei*, Qing Li<br>
     *Findings of the Empirical Methods in Natural Language Processing (EMNLP-Findings), 2025*<br>
     [arXiv](https://arxiv.org/abs/2508.07353) | [Paper]() | [Github]()
 
 
----
 
 ## Honors and Awards
 
