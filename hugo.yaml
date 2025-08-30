@@ -30,7 +30,7 @@ footnotereturnlinkcontents: "↩"
 #       url: "index.xml"
 
 params:
-  description: "A personal academic website of Rubing Chen."
+  description: "The personal academic website and CV of Rubing Chen, a PhD student at The Hong Kong Polytechnic University specializing in LLMs and NLP."
   footer: "&copy; [Rubing Chen](https://rubingchen.com) -- {Year}"
 
 markup:
