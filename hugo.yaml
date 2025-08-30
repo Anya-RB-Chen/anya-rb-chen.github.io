@@ -31,7 +31,7 @@ footnotereturnlinkcontents: "↩"
 
 params:
   description: "The personal academic website and CV of Rubing Chen, a PhD student at The Hong Kong Polytechnic University specializing in LLMs and NLP."
-  footer: "&copy; [Rubing Chen](https://rubingchen.com) -- {Year}"
+  footer: "&copy; [Rubing Chen](https://rubingchen.com) -- {Year} | A visitor map is used on this site."
 
 markup:
   highlight:

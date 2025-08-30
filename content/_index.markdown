@@ -7,7 +7,7 @@ title: CV
 # Rubing Chen (陈儒冰)
 
 
-I am a Ph.D. student in the [PolySmart Group](https://www.polyu.edu.hk/comp/polysmart/) at the [Department of Computing](https://www.polyu.edu.hk/comp/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research is co-supervised by Prof. [Qing Li](https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-qing/) and Prof. [Xiaoyong Wei](https://www.polyu.edu.hk/comp/people/academic-staff/dr-wei-xiaoyong/). I obtained my Bachelor's degree with First Class Honours from PolyU in 2025.
+I am a Ph.D. student in the [PolySmart Group](https://www.polyu.edu.hk/comp/polysmart/) at the [Department of Computing](https://www.polyu.edu.hk/comp/) of [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). My research is co-supervised by Prof. [Qing Li](https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-qing/) and Prof. [Xiaoyong Wei](https://www.polyu.edu.hk/comp/people/academic-staff/dr-wei-xiaoyong/). I obtained my Bachelor's degree with First Class Honours from PolyU in 2025.
 
 My primary research interests are in **domain-specific large language models (LLMs)** and **natural language processing (NLP)**. I have also contributed to other AI-related research projects, including applications in AI for Science.
 
@@ -77,3 +77,7 @@ My primary research interests are in **domain-specific large language models (LL
 -   **[2022-2024]** Dean's Honours List, Department of Computing, PolyU (3 consecutive years)
 -   **[2022-09]** Undergraduate Research Innovation Scheme Scholarship 2022/23
 -   **[2020-06]** Outstanding Graduate of HSANNU
+
+<body>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=300&t=tt&d=5fkWaYaXIFBjo3ZXLy9Im1_uvPCz7ekv5UGtkp5SEiE&co=f4f4f4&cmo=dcb2ff&cmn=ff52c6&ct=808080'></script>
+</body>
