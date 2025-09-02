@@ -1,5 +1,5 @@
 ---
-title: CV
+title: About
 ---
 
 <img src="images/selfie_square.jpg" alt="A photo of Rubing Chen" style="max-width:20%; min-width:40px; float:right; border-radius:50%; margin: 0 0 1em 1em;"/>
