@@ -1,6 +1,6 @@
 baseurl: "https://anya-rb-chen.github.io/cv/"  # please update this to your actual URL
 languageCode: "en-us"
-title: "Rubing Chen's CV"
+title: "Rubing Chen"
 theme: "hugo-xmin"
 publishDir: "public"
 googleAnalytics: ""
